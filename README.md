@@ -40,3 +40,7 @@ You will be scored based on the following:
 - Accuracy of your detector to detect IPO filings.
 - Tracking delay of RSS feeds (lower the better) for single static IP address.
 - Code quality.
+
+---
+
+If you have any questions, write to rakesh@alphanome.ai & info@alphanome.ai
