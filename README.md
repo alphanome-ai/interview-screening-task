@@ -41,6 +41,10 @@ You will be scored based on the following:
 - Tracking delay of RSS feeds (lower the better) for single static IP address.
 - Code quality.
 
+## Submission
+
+Please send you submission as compressed ZIP file to rakesh@alphanome.ai and info@alphanome.ai (Please add both the emails).
+
 ---
 
 If you have any questions, write to rakesh@alphanome.ai and / or info@alphanome.ai
