@@ -1,6 +1,6 @@
 # Interview Screening Assignment
 
-Please complete the below task to get a chance for interview.
+Please complete the below task to get a chance for an interview.
 
 ## Background
 
