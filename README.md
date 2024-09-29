@@ -45,6 +45,10 @@ You will be scored based on the following:
 
 Send your submission as compressed ZIP file to rakesh@alphanome.ai and info@alphanome.ai (Please add both the emails).
 
+The ZIP file must contain the following:
+- Source code for the detector.
+- Deatiled instructions on how to run the detector.
+
 ---
 
 If you have any questions, write to rakesh@alphanome.ai and / or info@alphanome.ai
