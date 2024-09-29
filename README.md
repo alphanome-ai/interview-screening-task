@@ -43,7 +43,7 @@ You will be scored based on the following:
 
 ## Submission
 
-Send your submission as compressed ZIP file to rakesh@alphanome.ai and info@alphanome.ai (Please add both the emails).
+Send your submission as a compressed ZIP file to rakesh@alphanome.ai and info@alphanome.ai (Please add both the emails).
 
 The ZIP file must contain the following:
 - Source code for the detector.
