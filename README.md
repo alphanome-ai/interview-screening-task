@@ -37,5 +37,6 @@ You will be scored based on the following:
 - Your ability to understand the problem and your ability to navigate your way around [sec.gov](https://www.sec.gov/) website to solve the problem (Especially if you are new to the website)
 - How you solved the problem or why couldn't you solve the problem is more important than the problem itself. 
 - Your method / algorithm to detect IPO filings
+- Accuracy of your detector to detect IPO filings.
 - Tracking delay of RSS feeds (lower the better) for single static IP address.
 - Code quality
