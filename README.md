@@ -4,7 +4,7 @@ Please complete the below task to get a chance for an interview.
 
 ## Background
 
-U.S. companies typically file specific documents with Securities and Exchange Commission (SEC) through the EDGAR (Electronic Data Gathering, Analysis, and Retrieval) system when they are planning an IPO. These documents contain detailed information about the company, including financials, risk factors, and the purpose of the IPO. For example, [this *(click here)*](https://www.sec.gov/Archives/edgar/data/1713445/000162828024006294/reddits-1q423.htm) is the recent Reddit IPO filing.
+U.S. companies typically file specific documents with Securities and Exchange Commission (SEC) through the EDGAR (Electronic Data Gathering, Analysis, and Retrieval) system when they are planning an IPO. These documents contain detailed information about the company, including financials, risk factors, and the purpose of the IPO. For example, [this *(click here)*](https://www.sec.gov/Archives/edgar/data/1713445/000162828024006294/reddits-1q423.htm) is a recent Reddit IPO filing.
 
 ## Task
 
