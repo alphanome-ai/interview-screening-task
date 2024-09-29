@@ -43,4 +43,4 @@ You will be scored based on the following:
 
 ---
 
-If you have any questions, write to rakesh@alphanome.ai & info@alphanome.ai
+If you have any questions, write to rakesh@alphanome.ai and / or info@alphanome.ai
