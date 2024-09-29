@@ -27,7 +27,7 @@ Build a detector that detects IPO filings from SEC RSS feeds. You may use any pr
 - Navigate your way around sec.gov scraping restrictions.
   - Rate limit restrictions
   - "Your Request Originates from an Undeclared Automated Tool" restriction.
-- Write clean code and follow OOP principles wherever necessary.
+- Write clean code.
 - Make valid assumptions wherever necessary & give reasoning for the same.
 
 ## Scoring Criteria
