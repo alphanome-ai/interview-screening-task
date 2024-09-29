@@ -29,6 +29,7 @@ Build a detector that detects IPO filings from SEC RSS feeds.
   - "Your Request Originates from an Undeclared Automated Tool" restriction.
 - Write clean code and follow OOP principles wherever necessary.
 - Make valid assumptions wherever necessary & give reasoning for the same.
+- You may use any programming language or tech stack of your choice.
 
 ## Scoring Criteria
 
