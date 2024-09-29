@@ -43,7 +43,7 @@ You will be scored based on the following:
 
 ## Submission
 
-Send youe submission as compressed ZIP file to rakesh@alphanome.ai and info@alphanome.ai (Please add both the emails).
+Send your submission as compressed ZIP file to rakesh@alphanome.ai and info@alphanome.ai (Please add both the emails).
 
 ---
 
