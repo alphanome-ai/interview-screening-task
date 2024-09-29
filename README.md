@@ -20,7 +20,7 @@ Build a detector that detects IPO filings from SEC RSS feeds. You may use any pr
 > Please adhere to the following restrictions while making an assignment submission.
 >
 
-- The detector must detect IPO filings only (Not S-1 forms).
+- The detector must detect IPO filings only (Not all S-1 forms).
 - Use long polling or short polling or any method of your choice to track the RSS feeds
   - Make sure that you are tracking the RSS feeds in realtime in seconds to milliseconds delay.
   - Best case delay must be in milliseconds & worst case delay must be in seconds for single static IP address.
