@@ -48,6 +48,7 @@ Send your submission as compressed ZIP file to rakesh@alphanome.ai and info@alph
 The ZIP file must contain the following:
 - Source code for the detector.
 - Detailed instructions on how to run the detector.
+- Any additional files that you want to add.
 
 ---
 
