@@ -8,7 +8,7 @@ U.S. companies typically file specific documents with Securities and Exchange Co
 
 ## Task
 
-Build a detector that detects IPO filings from SEC RSS feeds.
+Build a detector that detects IPO filings from SEC RSS feeds. You may use any programming language or tech stack of your choice.
 
 > [!IMPORTANT]
 > Not all S-1 filings are IPO filings, but all IPO filings are S-1 filings.
@@ -29,7 +29,6 @@ Build a detector that detects IPO filings from SEC RSS feeds.
   - "Your Request Originates from an Undeclared Automated Tool" restriction.
 - Write clean code and follow OOP principles wherever necessary.
 - Make valid assumptions wherever necessary & give reasoning for the same.
-- You may use any programming language or tech stack of your choice.
 
 ## Scoring Criteria
 
