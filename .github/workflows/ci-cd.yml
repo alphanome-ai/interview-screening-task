@@ -12,7 +12,7 @@ permissions:
 jobs:
   ci_cd:
     name: self-hosted run
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - name: hello world
       run: echo "hello world"
