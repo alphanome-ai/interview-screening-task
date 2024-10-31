@@ -1,0 +1,19 @@
+name: CI/CD
+
+on:
+  push:
+    branches: [main, dev]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  statuses: write
+
+jobs:
+  ci_cd:
+    name: self-hosted run
+    runs-on: ubuntu-latest
+    steps:
+    - name: hello world
+      run: echo "hello world"
+    
